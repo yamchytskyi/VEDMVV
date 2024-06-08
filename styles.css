@@ -16,7 +16,6 @@ h1, h2, h3, h4, h5, h6, p, ul, li {
 .page-wrapper {
     display: flex;
     flex-wrap: wrap;
-    flex-direction: column;
     justify-content: space-around;
     width: 100%;
     min-height: 100%;
@@ -39,7 +38,7 @@ header {
     z-index: 1;
 }
 
-.box-jonny-depp, .box-benedict, .box-kevin-spacey {
+.memeber-card {
     
     width: 400px;
     height: 410px;
